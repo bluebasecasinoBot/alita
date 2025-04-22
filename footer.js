@@ -118,7 +118,7 @@ __SYD.footer_main_child3 = () =>{
                     __SYD.footer_main_hyperLink_txt({link:'#p1',cnt:'Home'}),
                     __SYD.footer_main_hyperLink_txt({link:'#p2',cnt:'About Us'}),
                     __SYD.footer_main_hyperLink_txt({link:'#p5',cnt:'Roadmap'}),
-                    __SYD.footer_main_hyperLink_txt({link:'#p6',cnt:'Tokenomics'}),
+                    // __SYD.footer_main_hyperLink_txt({link:'#p6',cnt:'Tokenomics'}),
                     __SYD.footer_main_hyperLink_txt({link:'#p7',cnt:'FAQ'}),
                 ]
             )
