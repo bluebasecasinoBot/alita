@@ -151,7 +151,7 @@ __SYD.desktopNav_button = () =>{
         {
             events:{
                 onclick:e =>{
-                    location.href = '/agent'
+                    location.href = '/agent/create.html'
                 }
             }
         }
