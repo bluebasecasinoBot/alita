@@ -4,7 +4,7 @@ SYD_VAR.mainClr = new SYD_VAR_constructor({value:"#b9bcc5"});
 
 SYD_VAR.page1MainFont_1 = new SYD_VAR_constructor({value:"50px"});
 
-SYD_VAR.p1CAText = new SYD_VAR_constructor({value:"0xe3c127466908c2ccdc43521c8315b87fd369d605"})
+SYD_VAR.p1CAText = new SYD_VAR_constructor({value:"---------------------------------------"})
 
 SYD_VAR.buttonStyle1 = new SYD_VAR_constructor({value:"min-height:50px;width:fit-content;padding:0 30px;background: #8A63F7;text-transform:capitalize;color:#fff;display:flex;align-items:center;border-radius:7px;cursor:pointer;"})
 
