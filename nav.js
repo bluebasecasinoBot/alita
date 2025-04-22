@@ -151,7 +151,7 @@ __SYD.desktopNav_button = () =>{
         {
             events:{
                 onclick:e =>{
-                    location.href = 'https://www.wallyonbase.com/agent/agent_creation/create.html'
+                    location.href = '/agent'
                 }
             }
         }
