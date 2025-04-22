@@ -24,7 +24,7 @@ __SYD.container = () =>{
             __SYD.p3(),
             __SYD.p4(),
             __SYD.p5(),
-            __SYD.p6(),
+            // __SYD.p6(),
             __SYD.p7(),
             __SYD.footer_main_parent()
         ],
