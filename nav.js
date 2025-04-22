@@ -77,7 +77,7 @@ __SYD.mobileNav = () =>{
                     __SYD.desktopNav_textContent_text({val:"home" , ref:"p1"}),
                     __SYD.desktopNav_textContent_text({val:"about us" , ref:"p2"}),
                     __SYD.desktopNav_textContent_text({val:"roadmap" , ref:"p5"}),
-                    __SYD.desktopNav_textContent_text({val:"tokenomics" , ref:"p6"}),
+                    // __SYD.desktopNav_textContent_text({val:"tokenomics" , ref:"p6"}),
                     __SYD.desktopNav_textContent_text({val:"FAQ" , ref:"p7"}),
                     __SYD.desktopNav_textContent_text({val:"contact" , ref:"footer"}),
                     __SYD.desktopNav_button()
@@ -110,7 +110,7 @@ __SYD.desktopNav_textContent = () =>{
             __SYD.desktopNav_textContent_text({val:"home" , ref:"p1"}),
             __SYD.desktopNav_textContent_text({val:"about us" , ref:"p2"}),
             __SYD.desktopNav_textContent_text({val:"roadmap" , ref:"p5"}),
-            __SYD.desktopNav_textContent_text({val:"tokenomics" , ref:"p6"}),
+            // __SYD.desktopNav_textContent_text({val:"tokenomics" , ref:"p6"}),
             __SYD.desktopNav_textContent_text({val:"FAQ" , ref:"p7"}),
             __SYD.desktopNav_textContent_text({val:"contact" , ref:"footer"}),
         ]
