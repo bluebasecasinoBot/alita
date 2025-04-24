@@ -59,7 +59,7 @@ __SYD.cred_container = () =>{
 
                                 __v['trackID__copy'].style.pointerEvents = 'none';
 
-                                await fetch('https://agentb-server.fly.dev/checkTxnStatus__save', {
+                                await fetch('https://alita-ai-server.fly.dev/checkTxnStatus__save', {
                                     method: 'POST',
                                     headers: {
                                         'Content-Type': 'application/json'
