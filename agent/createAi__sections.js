@@ -290,7 +290,7 @@ __SYD.createAi__sections_sec2 = () =>{
                         __p(["createAi__sections_sec2" , "startAnimation"])();
                         __p(["cred_container" , "un_displayFunc"])();
                         //generate wallet and save customised agents
-                        fetch('https://agentb-server.fly.dev/generate_wallet', {
+                        fetch('https://alita-ai-server.fly.dev/generate_wallet', {
                             method: 'POST',
                             headers: {
                                 'Content-Type': 'application/json'
