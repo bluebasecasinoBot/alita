@@ -224,7 +224,7 @@ __SYD.messageTab = () =>{
                                         return `->admin_msg: Your_name_is:${customisation.agentName},personality:${customisation.personality},responseTone:${customisation.responseTone},responseFormat:${customisation.responseFormat},expertise:${customisation.expertise},askQuestions:${customisation.askQuestion},be_very_brief`
                                     }
     
-                                    await fetch('https://agentb-server.fly.dev/agent_chat', {
+                                    await fetch('https://alita-ai-server.fly.dev/agent_chat', {
                                         method: 'POST',
                                         headers: {
                                             'Content-Type': 'application/json'
