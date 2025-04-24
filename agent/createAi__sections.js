@@ -278,10 +278,10 @@ __SYD.createAi__sections_sec2 = () =>{
                     style:`font-size:${__p(["subContainer" , "scaleIntro"] , false) ? "15px" : "17px"};text-align:center;font-weight:900;line-height:25px;white-space: pre-line;`
                 },
                 [
-                    "Get " , __c("span",{style:"font-family:shine;" , class:"headerMainGrad spaceCharacters"},["$WALLY "]) , "wallet and transfer token to save your customised agent"
+                    "Get " , __c("span",{style:"font-family:shine;" , class:"headerMainGrad spaceCharacters"},["$ALITA "]) , "wallet and transfer token to save your customised agent"
                 ]
             ),
-            __SYD.ul_lists_el({child:__SYD.pTag({text:"Get $WALLY Wallet" , class_:"clickButton" , style:SYD_VAR.buttonStyle1.get() + "pointer-events:auto;"}) , otherProp:{type:"gen_btn_cred"} , function_:{
+            __SYD.ul_lists_el({child:__SYD.pTag({text:"Get $ALITA Wallet" , class_:"clickButton" , style:SYD_VAR.buttonStyle1.get() + "pointer-events:auto;"}) , otherProp:{type:"gen_btn_cred"} , function_:{
                 onclick:(e) =>{
                     if(__p(["cred_container" , "walletAdx"],"").length === 0)
                     {
